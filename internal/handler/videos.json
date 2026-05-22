@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "title": "الدرس الاول في الرياضيات للثانية ثانوي الدوال العددية من الألف إلى الياء",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=TNvcdmzdIDA",
+    "thumbnail": ""
+  },
+  {
+    "id": 2,
+    "title": "الدوال العددية من الالف الى الياء للثالثة ثانوي رقم 1",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=qF9CKQpvcSw",
+    "thumbnail": ""
+  },
+  {
+    "id": 3,
+    "title": "تعلم كيفية الاجابة على 35 سؤالا في الدوال في تمرين واحد (بصراحة روووعة)❤♥️🤩",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=xnsP6SyHMos",
+    "thumbnail": ""
+  },
+  {
+    "id": 4,
+    "title": "الدوال العددية من الألف إلى الياء للثالثة ثانوي ( علوم تجريبية + رياضيات+ تقني + تسيير)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=fOVOhlSkWMA",
+    "thumbnail": ""
+  },
+  {
+    "id": 5,
+    "title": "اقوى ملخص في الدوال العددية لباك 2023 (نوصيك كمل الفيديو والله ينفعك)❤♥️🏆",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=Auj_6fS0GDo",
+    "thumbnail": ""
+  },
+  {
+    "id": 6,
+    "title": "حقيبة عكاشة 🧳| الدوال الأسية🔥| حلول جميع البكالوريات من 2019 - 2025 ✅(شعبة علوم تجريبية)|08 تمارين🔥",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=PrRJ68feZ_M",
+    "thumbnail": ""
+  },
+  {
+    "id": 7,
+    "title": "كيف تتمكن من الدوال :العددية،الاسية،اللوغاريتمية ؟ و ما هي الاشياء التي يجب معرفتها و فهمها؟(7.5 )",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=52-dnnzXFtk",
+    "thumbnail": ""
+  },
+  {
+    "id": 8,
+    "title": "أقوى مراجعة في الرياضيات لجميع المحاور للشعب العلمية و التقنية و الرياضية",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=6m-tTXuo1EY",
+    "thumbnail": ""
+  },
+  {
+    "id": 9,
+    "title": "الدوال الاصلية و التكامل بالتجزئة من الالف الى الياء  (كلش في فيديو واحد)♥️❤",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=hUqfMoYcBYw",
+    "thumbnail": ""
+  },
+  {
+    "id": 10,
+    "title": "ملخص شامل في الدوال العددية والأسية واللوغارتمية لباك 2026",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=yWGVhYPEjKo",
+    "thumbnail": ""
+  },
+  {
+    "id": 11,
+    "title": "دالة اسية باك 2025  شعبة علوم تجريبية",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=FSMhWTuJT3Q",
+    "thumbnail": ""
+  },
+  {
+    "id": 12,
+    "title": "درس الدالة الأسية من الألف إلى الياء 2026 ",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=Xou66Qm78GE",
+    "thumbnail": ""
+  },
+  {
+    "id": 13,
+    "title": "دير لباز في الدوال العددية لباك 2024 رقم 1 (مسألة شاملة لمراجعة المكتسبات)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=XvSqUWvyVS8",
+    "thumbnail": ""
+  },
+  {
+    "id": 14,
+    "title": "الدالة الاسية و الاسئلة الاكثر شيوعا من السهل نحو الصعب لباك 2025 (كمل الفيديو)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=wTQHqXg1jpM",
+    "thumbnail": ""
+  },
+  {
+    "id": 15,
+    "title": "مواضيع مقترحة في الرياضيات(الدوال) لباك 2026  رقم 9",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=lP0P42wAOgk",
+    "thumbnail": ""
+  },
+  {
+    "id": 16,
+    "title": "دير لباز في الدوال الاصلية و الحساب التكاملي و حساب المساحات رقم 1 (بروفيتي تعلم)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=8LfB2KPHQzM",
+    "thumbnail": ""
+  },
+  {
+    "id": 17,
+    "title": "دالة أسية باك 2022 شعبة علوم تجريبية الموضو ع 01",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=ickLyR_lkx4",
+    "thumbnail": ""
+  },
+  {
+    "id": 18,
+    "title": "ملخص رائع الدالة العددية و الاسية و اللوغاريتمية (خفيف ظريف لأهم القوانين و الافكار)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=uC4GSi2JjGo",
+    "thumbnail": ""
+  },
+  {
+    "id": 19,
+    "title": "المكتسبات القبلية في الرياضيات 🚨| كل ما تحتاجه للانطلاق في السنة الدراسية🚀 | بكالوريا 2026",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=pWJsnK4TGiY",
+    "thumbnail": ""
+  },
+  {
+    "id": 20,
+    "title": "كتاب الدوال  و الفرق بين إصدار 2024♥️❤ و الإصدار القديم",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=74CHpcM7mWw",
+    "thumbnail": ""
+  },
+  {
+    "id": 21,
+    "title": "⚖️ الميزان في الدالة الأسية | 14 تمرينا متنوعا | بكالوريا (علمي، تقني، رياضي)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=SGG0jPJ16gc",
+    "thumbnail": ""
+  },
+  {
+    "id": 22,
+    "title": "مراجعة شاملة في الدوال (استعمال جدول التغيرات) لباك 2023 رقم 1",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=0gNABaeXY3M",
+    "thumbnail": ""
+  },
+  {
+    "id": 23,
+    "title": "درس الدالة الاسية من الالف الى الياء (نوصيك هذا اهم درس في الدوال )♥️",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=h41lxwme778",
+    "thumbnail": ""
+  },
+  {
+    "id": 24,
+    "title": "دالة اسية باك 2024 لشعبة علوم تجريبية (دالة رائعة)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=PH62FIzsxq8",
+    "thumbnail": ""
+  },
+  {
+    "id": 25,
+    "title": "دالة عددية باك 2009 شعبة علوم تجريبية رقم 1",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=8QqySuskJtY",
+    "thumbnail": ""
+  },
+  {
+    "id": 26,
+    "title": "تركيب الدوال و الاسئلة الصعبة في الدوال للثالثة ثانوي رقم 1",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=11tPcdDvFos",
+    "thumbnail": ""
+  },
+  {
+    "id": 27,
+    "title": "دالة أسية باك 2022 شعبة علوم تجريبية الموضو ع 02",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=QUAGOIOm1VQ",
+    "thumbnail": ""
+  },
+  {
+    "id": 28,
+    "title": "درس المتتاليات من الألف إلى الياء🔥 | مع تطبيقات لكل عنصر🚀 | بكالوريا ✅",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=YAGvr0KYl_o",
+    "thumbnail": ""
+  },
+  {
+    "id": 29,
+    "title": "الأعداد المركبة من الألف إلى الياء 🎁🥇|  كل ما تحتاجه في الأعداد المركبة🚀 | ثالثة ثانوي",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=2WTEF-oVUGk",
+    "thumbnail": ""
+  },
+  {
+    "id": 30,
+    "title": "دالة لوغاريتمية باك 2026  شعبة علوم تجريبية",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=Y2nivMfpdFA",
+    "thumbnail": ""
+  },
+    {
+    "id": 31,
+    "title": "الدرس الاول في الرياضيات للثانية ثانوي الدوال العددية من الألف إلى الياء",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=TNvcdmzdIDA",
+    "thumbnail": ""
+  },
+  {
+    "id": 32,
+    "title": "الدوال العددية من الالف الى الياء للثالثة ثانوي رقم 1",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=qF9CKQpvcSw",
+    "thumbnail": ""
+  },
+  {
+    "id": 33,
+    "title": "تعلم كيفية الاجابة على 35 سؤالا في الدوال في تمرين واحد (بصراحة روووعة)❤♥️🤩",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=xnsP6SyHMos",
+    "thumbnail": ""
+  },
+  {
+    "id": 34,
+    "title": "الدوال العددية من الألف إلى الياء للثالثة ثانوي ( علوم تجريبية + رياضيات+ تقني + تسيير)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=fOVOhlSkWMA",
+    "thumbnail": ""
+  },
+  {
+    "id": 35,
+    "title": "أقوى مراجعة نهائية في الرياضيات 🔥| جميع المحاور 👌| جميع الشعب العلمية والتقنية والرياضيات",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=9fzDmGvyEiA",
+    "thumbnail": ""
+  },
+  {
+    "id": 36,
+    "title": "مواضيع مقترحة في الرياضيات( دالة اشبال الامة) لباك 2026  رقم 12",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=mnzCJJlivm4",
+    "thumbnail": ""
+  },
+  {
+    "id": 37,
+    "title": "اقوى ملخص في الدوال العددية لباك 2023 (نوصيك كمل الفيديو والله ينفعك)❤♥️🏆",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=Auj_6fS0GDo",
+    "thumbnail": ""
+  },
+  {
+    "id": 38,
+    "title": "ملخص شامل في الدوال العددية والأسية واللوغارتمية لباك 2026",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=yWGVhYPEjKo",
+    "thumbnail": ""
+  },
+  {
+    "id": 39,
+    "title": "مواضيع مقترحة في الرياضيات(الدوال) لباك 2026  رقم 9",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=lP0P42wAOgk",
+    "thumbnail": ""
+  },
+  {
+    "id": 40,
+    "title": "أقوى مراجعة في الرياضيات لجميع المحاور للشعب العلمية و التقنية و الرياضية",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=6m-tTXuo1EY",
+    "thumbnail": ""
+  },
+  {
+    "id": 41,
+    "title": "حقيبة عكاشة 🧳| الدوال الأسية🔥(شعبة تقني رياضي)| حلول جميع البكالوريات من 2019 - 2025 ✅ | 06 تمارين🔥",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=mLy_d2dGmo0",
+    "thumbnail": ""
+  },
+  {
+    "id": 42,
+    "title": "دالة اسية باك 2025  شعبة تقني رياضي",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=T-ngC9p2XCs",
+    "thumbnail": ""
+  },
+  {
+    "id": 43,
+    "title": "الدوال الاصلية و التكامل بالتجزئة من الالف الى الياء  (كلش في فيديو واحد)♥️❤",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=hUqfMoYcBYw",
+    "thumbnail": ""
+  },
+  {
+    "id": 44,
+    "title": "دالة لوغارتمية باك 2022 شعبة تقني رياضي الموضوع 01",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=UopzSf4hNrA",
+    "thumbnail": ""
+  },
+  {
+    "id": 45,
+    "title": "كيف تتمكن من الدوال :العددية،الاسية،اللوغاريتمية ؟ و ما هي الاشياء التي يجب معرفتها و فهمها؟(7.5 )",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=52-dnnzXFtk",
+    "thumbnail": ""
+  },
+  {
+    "id": 46,
+    "title": "⚖️ الميزان في الدالة الأسية | 14 تمرينا متنوعا | بكالوريا (علمي، تقني، رياضي)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=SGG0jPJ16gc",
+    "thumbnail": ""
+  },
+  {
+    "id": 47,
+    "title": "دراسة دالة عددية تدريبية رقم 1 للثالثة ثانوي 2026",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=s4pZJKeL-54",
+    "thumbnail": ""
+  },
+  {
+    "id": 48,
+    "title": "ملخص رائع الدالة العددية و الاسية و اللوغاريتمية (خفيف ظريف لأهم القوانين و الافكار)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=uC4GSi2JjGo",
+    "thumbnail": ""
+  },
+  {
+    "id": 49,
+    "title": "دالة أسية باك 2021 شعبة تقني رياضي الموضوع 01",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=W3b7pczvUAM",
+    "thumbnail": ""
+  },
+  {
+    "id": 50,
+    "title": "دير لباز في الدوال العددية لباك 2024 رقم 1 (مسألة شاملة لمراجعة المكتسبات)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=XvSqUWvyVS8",
+    "thumbnail": ""
+  },
+  {
+    "id": 51,
+    "title": "مراجعة شاملة في محور الدوال العددية للثانية ثانوي رقم 1 لعام 2026",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=lQTUU9PEbps",
+    "thumbnail": ""
+  },
+  {
+    "id": 52,
+    "title": "دالة لوغارتمية باك 2023 شعبة تقني رياضي الموضوع 01",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=mmi2PHwm0Fo",
+    "thumbnail": ""
+  },
+  {
+    "id": 53,
+    "title": "الأعداد والحساب من الألف إلى الياء للبكالوريا رياضي و تقني (درس مفصل+25 تمرين) (تمرين تطبيقي 16-18)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=MOrOf-BHZio",
+    "thumbnail": ""
+  },
+  {
+    "id": 54,
+    "title": "درس تركيب الدوال للثالثة ثانوي مع جميع الحالات الواردة في البكالوريا (2008/2021)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=iVh3DSk3N-E",
+    "thumbnail": ""
+  },
+  {
+    "id": 55,
+    "title": "الدالة الاسية و الاسئلة الاكثر شيوعا من السهل نحو الصعب لباك 2025 (كمل الفيديو)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=wTQHqXg1jpM",
+    "thumbnail": ""
+  },
+  {
+    "id": 56,
+    "title": "الأعداد المركبة من الألف إلى الياء 🎁🥇|  كل ما تحتاجه في الأعداد المركبة🚀 | ثالثة ثانوي",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=2WTEF-oVUGk",
+    "thumbnail": ""
+  },
+  {
+    "id": 57,
+    "title": "دالة اسية شاملة باك 2024 تقني رياضي(الاسئلة الاكثر شيوعا)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=WWIrbi_OUOE",
+    "thumbnail": ""
+  },
+  {
+    "id": 58,
+    "title": "ما هي اساسيات الرياضيات للثالثة ثانوي لباك 2024 وكيف التمكن منها ❤❤",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=9loWjSvhJaM",
+    "thumbnail": ""
+  },
+  {
+    "id": 59,
+    "title": "درس الدالة اللوغاريتمية من الالف الى الياء (الجزء الاول) (7 تمارين محلولة بالتفصيل لكل عنصر)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=dWSMfx216aY",
+    "thumbnail": ""
+  },
+  {
+    "id": 60,
+    "title": "تعلم كيف ترسم منحنى الدالة بطريقة بسيطة و ناجحة (نقطة كاملة في الرسم)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=Z3X_xBxhd0M",
+    "thumbnail": ""
+  },
+    {
+    "id": 61,
+    "title": "أقوى مراجعة نهائية في الرياضيات 🔥| جميع المحاور 👌| جميع الشعب العلمية والتقنية والرياضيات",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=9fzDmGvyEiA",
+    "thumbnail": ""
+  },
+  {
+    "id": 62,
+    "title": "الدوال العددية من الألف إلى الياء للثالثة ثانوي ( علوم تجريبية + رياضيات+ تقني + تسيير)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=fOVOhlSkWMA",
+    "thumbnail": ""
+  },
+  {
+    "id": 63,
+    "title": "تعلم كيفية الاجابة على 35 سؤالا في الدوال في تمرين واحد (بصراحة روووعة)❤♥️🤩",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=xnsP6SyHMos",
+    "thumbnail": ""
+  },
+  {
+    "id": 64,
+    "title": "الدوال العددية من الالف الى الياء للثالثة ثانوي رقم 1",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=qF9CKQpvcSw",
+    "thumbnail": ""
+  },
+  {
+    "id": 65,
+    "title": "أقوى مراجعة في الرياضيات لجميع المحاور للشعب العلمية و التقنية و الرياضية",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=6m-tTXuo1EY",
+    "thumbnail": ""
+  },
+  {
+    "id": 66,
+    "title": "الدوال الاصلية و التكامل بالتجزئة من الالف الى الياء  (كلش في فيديو واحد)♥️❤",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=hUqfMoYcBYw",
+    "thumbnail": ""
+  },
+  {
+    "id": 67,
+    "title": "الدرس الاول في الرياضيات للثانية ثانوي الدوال العددية من الألف إلى الياء",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=TNvcdmzdIDA",
+    "thumbnail": ""
+  },
+  {
+    "id": 68,
+    "title": "الدوال باك 2020 الشعب الأدبية واللغات الموضوع 01",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=OjTG00_H9cY",
+    "thumbnail": ""
+  },
+  {
+    "id": 69,
+    "title": "دالة اسية باك 2025 شعبة رياضيات",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=1foPNHe2tBw",
+    "thumbnail": ""
+  },
+  {
+    "id": 70,
+    "title": "مواضيع مقترحة في الرياضيات(الدوال) لباك 2026  رقم 9",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=lP0P42wAOgk",
+    "thumbnail": ""
+  },
+  {
+    "id": 71,
+    "title": "دالة أسية باك 2020 شعبة رياضيات الموضوع 01",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=0J1DmhL8sjo",
+    "thumbnail": ""
+  },
+  {
+    "id": 72,
+    "title": "دير لباز في الدوال الاصلية و الحساب التكاملي و حساب المساحات رقم 1 (بروفيتي تعلم)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=8LfB2KPHQzM",
+    "thumbnail": ""
+  },
+  {
+    "id": 73,
+    "title": "مراجعة شاملة في الدوال مع التكاملات و المتتاليات (مسألة بصراحة تخوف)❤♥️",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=8tN95B0g-zE",
+    "thumbnail": ""
+  },
+  {
+    "id": 74,
+    "title": "دالة لوغايتمية باك 2024 شعبة رياضيات (دالة تحمل افكار رائعة)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=MENLUJ_Q5a8",
+    "thumbnail": ""
+  },
+  {
+    "id": 75,
+    "title": "دالة أسية باك 2022 شعبة رياضيات الموضوع 01",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=972mEzRaRas",
+    "thumbnail": ""
+  },
+  {
+    "id": 76,
+    "title": "الأعداد والحساب من الألف إلى الياء للبكالوريا رياضي و تقني (درس مفصل+25 تمرين) (تمرين تطبيقي 16-18)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=MOrOf-BHZio",
+    "thumbnail": ""
+  },
+  {
+    "id": 77,
+    "title": "دالة اسية باك 2024 شعبة رياضيات (ننصح بها العلمي و التقني)🏋️‍♂️🏋️‍♂️",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=rkH1vH5_Y0Q",
+    "thumbnail": ""
+  },
+  {
+    "id": 78,
+    "title": "ملخص شامل في الدوال العددية والأسية واللوغارتمية لباك 2026",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=yWGVhYPEjKo",
+    "thumbnail": ""
+  },
+  {
+    "id": 79,
+    "title": "الدالة الاسية و الاسئلة الاكثر شيوعا من السهل نحو الصعب لباك 2025 (كمل الفيديو)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=wTQHqXg1jpM",
+    "thumbnail": ""
+  },
+  {
+    "id": 80,
+    "title": "مراجعة شاملة في الدوال المثلثية للثالثة ثانوي رقم 1",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=e2yEVPxpwTU",
+    "thumbnail": ""
+  },
+  {
+    "id": 81,
+    "title": "دالة أسية باك 2023 شعبة رياضيات الموضوع 01",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=dSEU1DkqjTM",
+    "thumbnail": ""
+  },
+  {
+    "id": 82,
+    "title": "دالة أسية باك 2019 (وسيطية) شعبة رياضيات الموضوع 02",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=Smg_L8ISqt0",
+    "thumbnail": ""
+  },
+  {
+    "id": 83,
+    "title": "دالة لوغاريتمية باك 2018 شعبة رياضيات الموضوع 01",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=etYDNo2f3EY",
+    "thumbnail": ""
+  },
+  {
+    "id": 84,
+    "title": "حقيبة عكاشة 🧳| الدوال الأسية🔥| حلول جميع البكالوريات من 2019 - 2025 ✅(شعبة علوم تجريبية)|08 تمارين🔥",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=PrRJ68feZ_M",
+    "thumbnail": ""
+  },
+  {
+    "id": 85,
+    "title": "المكتسبات القبلية في الرياضيات 🚨| كل ما تحتاجه للانطلاق في السنة الدراسية🚀 | بكالوريا 2026",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=pWJsnK4TGiY",
+    "thumbnail": ""
+  },
+  {
+    "id": 86,
+    "title": "مراجعة في الدوال الوسيطية الاسية و اللوغاريتمية (سؤال شائع جدا)",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=SsI3h8PZTgE",
+    "thumbnail": ""
+  },
+  {
+    "id": 87,
+    "title": "اقوى ملخص في الدوال العددية لباك 2023 (نوصيك كمل الفيديو والله ينفعك)❤♥️🏆",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=Auj_6fS0GDo",
+    "thumbnail": ""
+  },
+  {
+    "id": 88,
+    "title": "دالة لوغاريتمية باك 2025  شعبة رياضيات",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=WL67U1qnIJ4",
+    "thumbnail": ""
+  },
+  {
+    "id": 89,
+    "title": "الموافقات و الاسئلة الاكثر شيوعا للشعب الادبية لباك 2026",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=9oOfP_7T44g",
+    "thumbnail": ""
+  },
+  {
+    "id": 90,
+    "title": "دالة أسية (البرهان بالتراجع + المعادلات التفاضلية + التكاملات) باك 2011 شعبة رياضيات الموضوع 01",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=Wad87Z3199E",
+    "thumbnail": ""
+  },
+    {
+    "id": 91,
+    "title": "الدرس 01: تعريف الدالة الأسية و خواصها || الدوال الأسية باك 2025 جميع الشعب العلمية",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=94RCMsnLT3Y",
+    "thumbnail": ""
+  },
+  {
+    "id": 92,
+    "title": " 🌍⚡ كيف غيّرت الدوال الأسية وجه العالم؟ جوابي على سؤال تلميذ سألني ‼️",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=UFxO2SrXzzg",
+    "thumbnail": ""
+  },
+  {
+    "id": 93,
+    "title": "🚨 التزايد المقارن و حساب النهايات في الأسية … فيديو شامل لكل صغيرة وكبيرة ⚠️ | الأستاذ عبد الباسط",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=BR59BAOLEeM",
+    "thumbnail": ""
+  },
+  {
+    "id": 94,
+    "title": "تمرين دوال أسية لا يُنسى! هل تستطيع حله للنهاية؟ — أفضل تمرين ستمر به على الإطلاق 💡🚀",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=qnpg-EarCbk",
+    "thumbnail": ""
+  },
+  {
+    "id": 95,
+    "title": "أول تمرين في الدوال الأسية 💡صحّح أخطاءك المنهجية وابنِ الأساس صح! ✅",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=XkAzLSMzqU8",
+    "thumbnail": ""
+  },
+  {
+    "id": 96,
+    "title": "🔑 الدالة أسية + خواصها = مفتاح فهم الوحدة! من النظري إلى التطبيق 💡| الأستاذ عبد الباسط باكلوريا 2026",
+    "description": "الأستاذ عبد الباسط and الأستاذ عبد الباسط القناة الإحتياطية",
+    "url": "https://www.youtube.com/watch?v=739EpsgTgw4",
+    "thumbnail": ""
+  },
+  {
+    "id": 97,
+    "title": "✏️ لن تخطئ في المشتقات بعد اليوم! | الدوال الأسية مع الأستاذ عبد الباسط 🔥",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=iP0aZgpr1Wo",
+    "thumbnail": ""
+  },
+  {
+    "id": 98,
+    "title": "📈 من الصفر إلى الإتقان في الدوال الأسية 💪 تمرين شامل مع الشرح المفصل الأستاذ عبد الباسط",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=5HJgan3ldYw",
+    "thumbnail": ""
+  },
+  {
+    "id": 99,
+    "title": "⚡ دراسة الدالة الأسية بطريقة ذكية | فهم سريع + أمثلة تطبيقية | الأستاذ عبد الباسط",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=U7k-OczVZRU",
+    "thumbnail": ""
+  },
+  {
+    "id": 100,
+    "title": "⚠️ احذر هذا الخطأ يدمر مستواك في الرياضيات! | السر الذي يمثل عصارة سنوات مع الرياضيات !",
+    "description": "الأستاذ عبد الباسط and الأستاذ عبد الباسط القناة الإحتياطية",
+    "url": "https://www.youtube.com/watch?v=vfI7pJ9CNrc",
+    "thumbnail": ""
+  },
+  {
+    "id": 101,
+    "title": "التمرين الشامل الثاني في الدوال الأسية فيه أفكار جد ممتازة⭐️⭐️⭐️⭐️|| باكلوريا2024 جميع الشعب العلمية",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=-SbWb7Obo_k",
+    "thumbnail": ""
+  },
+  {
+    "id": 102,
+    "title": "التمرين الشامل الأول في الدوال الأسية ⭐️⭐️⭐️(أفكار متنوعة جدا ) || باكلوريا 2024 جميع الشعب العلمية",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=cP0xRlqpNKQ",
+    "thumbnail": ""
+  },
+  {
+    "id": 103,
+    "title": "حصة المراجعة الشاملة الأسطورية لوحدة الدوال ليلة الباكلوريا 🔥🎓",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=r5AsdnMzQMs",
+    "thumbnail": ""
+  },
+  {
+    "id": 104,
+    "title": "تمرين الدالة الأسية باكلوريا 2024 شعبة علوم تجريبية ⭐️⭐️⭐️ 🔥",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=GKTtRhFk5LI",
+    "thumbnail": ""
+  },
+  {
+    "id": 105,
+    "title": "حساب النهايات في الدوال الأسية || الدوال الأسية باك 2024 جميع الشعب العلمية",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=oaK0Kx1k_lk",
+    "thumbnail": ""
+  },
+  {
+    "id": 106,
+    "title": "الدوال العددية والأسية واللوغاريتمية والمعادلات التفاضلية ومنحنى الدالة والمناقشة البيانية",
+    "description": "infinity أنفينيتي",
+    "url": "https://www.youtube.com/watch?v=RA-AFhDmv3g",
+    "thumbnail": ""
+  },
+  {
+    "id": 107,
+    "title": "أقوى فيديو شامل حول القراءة البيانية أكثر من 15 سؤال || أفكار العلامة الكاملة 01",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=DLeQ973plz4",
+    "thumbnail": ""
+  },
+  {
+    "id": 108,
+    "title": "⚠️ تمرين للنخبة في الدوال الأسية 5 نجوم … الغلق النهائي على الوحدة (ت 48 من الكتاب)💡",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=rHzyCu1KSZE",
+    "thumbnail": ""
+  },
+  {
+    "id": 109,
+    "title": "الدرس 04: فيديو شامل لكل أفكار المعادلات و المتراجحات و الإشارات في الدوال الأسية 🔥",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=YQv5kQQKmSs",
+    "thumbnail": ""
+  },
+  {
+    "id": 110,
+    "title": "تمرين باكلوريا فرنسية ممتاز الدوال الأسية || باك 2023 جميع الشعب العلمية",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=n35RxFFWG_M",
+    "thumbnail": ""
+  },
+  {
+    "id": 111,
+    "title": "🧠 كيف تتعامل مع المعادلات والمتراجحات الأسية باحترافية … افهم ولا تحفظ | الأستاذ عبد الباسط",
+    "description": "الأستاذ عبد الباسط and الأستاذ عبد الباسط القناة الإحتياطية",
+    "url": "https://www.youtube.com/watch?v=XXBtwsUUce4",
+    "thumbnail": ""
+  },
+  {
+    "id": 112,
+    "title": "شرح اسطوووري 🔥🔥 الدالة الاسية من الالف الى الياء ☢️☢️#باك2026 #الجزائر_اليوم #رياضيات",
+    "description": "🛡️ الاستاذ محمد للرياضيات ",
+    "url": "https://www.youtube.com/watch?v=U03KxqsMCPw",
+    "thumbnail": ""
+  },
+  {
+    "id": 113,
+    "title": "حل تمرين شامل في الدوال الأسية فيه أفكار ممتازة ومتنوعة ⭐️⭐️⭐️⭐️ (هدية من منصة زاد أكاديمي )",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=rdcQTrUPRg8",
+    "thumbnail": ""
+  },
+  {
+    "id": 114,
+    "title": "أقوى تمرين شامل في الدوال الأسية 4 نجوم ⭐️ ⭐️⭐️⭐️ تمرين ممتع لأبعد حدود (خاص بشعبة رياضيات و تقني )",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=EkVmv7izGHE",
+    "thumbnail": ""
+  },
+  {
+    "id": 115,
+    "title": "دراسة الإشارة في الدوال الأسية ||  الدوال الأسية باك 2024 جميع الشعب العلمية",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=_OI4owEXAe0",
+    "thumbnail": ""
+  },
+  {
+    "id": 116,
+    "title": "درس الدالة الأسية من الألف إلى الياء 2026 ",
+    "description": "الاستاذ نورالدين",
+    "url": "https://www.youtube.com/watch?v=Xou66Qm78GE",
+    "thumbnail": ""
+  },
+  {
+    "id": 117,
+    "title": "الدرس 01: تعريف الدالة الأسية و خواصها || الدوال الأسية باك 2024 جميع الشعب العلمية",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=acKZLE4FUXY",
+    "thumbnail": ""
+  },
+  {
+    "id": 118,
+    "title": "الدرس 02: دارسة الدالة الأسية || الدوال الأسية باك  2024 جميع الشعب العلمية",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=D7lgQnQWz3I",
+    "thumbnail": ""
+  },
+  {
+    "id": 119,
+    "title": "تمرين قوي جدا في الدوال الأسية خمسة نجوم ⭐️⭐️⭐️⭐️⭐️|| باكلوريا  جميع الشعب العلمية",
+    "description": "الأستاذ عبد الباسط",
+    "url": "https://www.youtube.com/watch?v=uc2dpNnuEdQ",
+    "thumbnail": ""
+  },
+  {
+    "id": 120,
+    "title": "الدالة الأسية الشاملة (01) | حل دالة أسية شاملة من الصفر الى الإحتراف 🔥 | بكالوريا 2026",
+    "description": "Elwahate Academy",
+    "url": "https://www.youtube.com/watch?v=2CR4JRpC_rE",
+    "thumbnail": ""
+  }
+]
